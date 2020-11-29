@@ -11,26 +11,26 @@ And, lastly, on the basis of chosen cities, we are required to create a travel r
 ## **WeatherPy Results**
 Following information was retrieved showing a snapshot below of cities across the globe along with their weather conditions for 2000 random latitudes and longitudes. 
 
-![](Weather_Database\Retrieved_Weather_Data.png)
+![](https://github.com/kirtibhandari/WeatherPy/blob/main/Weather_Database/Retrieved_Weather_Data.png)
 
 Below is a marker layered map with pop-up markers for the cities obtained in the list of the travel destinations for vacation based upon maximum and minimum temperature preferences of the user.
 
 **Potential Travel Destinations based upon User Weather Preferences**
-![](Vacation_Search\WeatherPy_vacation_map.png)
+![](https://github.com/kirtibhandari/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 The following snapshot, gives a glimpse when a user chooses four cities for their vacation, which gives them the nearest hotel, city, country code, and description of current weather and maximum temperature in the city.
 
-![](Vacation_Search\Selected_cities_fr_travel.png)
+![](https://github.com/kirtibhandari/WeatherPy/blob/main/Vacation_Search/Selected_cities_fr_travel.png)
 
 The following screenshot is displayed after user choses their four cities for their travel itinerary. This itinerary presents route by travel mode of 'Driving', for four chosen cities for possible travel of the customer.
 
 **Travel Route**
-![](Vacation_Itinerary\WeatherPy_travel_map.png)
+![](https://github.com/kirtibhandari/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 A new marker layer map with pop-ups providing information about nearest hotel,in the city and weather conditions along with country name,is then presented, for those four cities as chosen by user as below to confirm the Vacation itinerary of the user.
 
 **Final Travel Itinerary**
-![](Vacation_Itinerary\WeatherPy_travel_map_markers.png)
+![](https://github.com/kirtibhandari/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 ## **WeatherPy Summary**
 The project now enables user to enter maximum and minimum weather preferences, displays potential travel destinations, nearby cities and hotels, with country codes and current weather descriptions, displayed with the help of pop up markers on the map.
 Also, they can see the travel route for the chosen cities for their final itinerary.
